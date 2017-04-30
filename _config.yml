@@ -14,17 +14,14 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: BestShes
 
-description: Stylish Jekyll Theme
+description: BestShes's Blog
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
-  pinterest: asd123
-  linkedin: asd123
-  bio: Your stylish, minimalist theme!
+  name: Park Woo Hyun
+  email: qkrdngus16@gmail.com
+  github: BestShes
+  bio: BestShes's Blog
   email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
